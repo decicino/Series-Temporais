@@ -1,4 +1,4 @@
-### Análise de dados de Séries Temporais de dados de vendas nominais no varejo de hipermercados e supermercados com índice de base fixa.
+### Análise de dados de Séries Temporais dos dados de vendas nominais no varejo de hipermercados e supermercados com índice de base fixa, utilizando modelos lineares dinâmicos com R .
 
 #### Responsáveis pelo projeto
 ###### Douglas Decicino [Github](https://github.com/decicino)
